@@ -47,7 +47,7 @@ Additionally, if necessary, the datasets from ENH 2014, 2015 and 2016 are availa
 
 ## 7. **Organization within the team**
 
-- Erick will work on the translation and machine learningn methods.
+- Erick will work on the translation and machine learning methods.
 - Antonio will run the regression, using matching scores to weed out possible covariates.
 - Mattia will work on creating an ad hoc health variable which will synthesize the group of variables we are trying to predict.
 
