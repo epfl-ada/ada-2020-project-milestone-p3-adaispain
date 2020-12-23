@@ -53,6 +53,12 @@ Additionally, if necessary, the datasets from ENH 2014, 2015 and 2016 are availa
 - Antonio will run the regression, using matching scores to weed out possible covariates.
 - Mattia will work on creating an ad hoc health variable which will synthesize the group of variables we are trying to predict.
 
+UPDATED:
+- Erick worked on the translation, data preprocessing and video editing.
+- Antonio worked on the regression, using matching scores to weed out possible covariates and video scripting.
+- Mattia worked on creating an ad hoc health variable which synthesized the group of variables we were trying to predict, regression and video audio recording.
+
+
 ## 8. **Questions for TAs**
 
 - Is it possible to slightly modify the aforementioned methods if necessary in the future, or what we wrote now has to be followed strictly for the realization of P4?
